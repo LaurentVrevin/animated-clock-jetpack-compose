@@ -1,4 +1,4 @@
-package com.laurentvrevin.animatedclockjetpackcompose.ui.theme
+package com.laurentvrevin.animatedclockjetpackcompose.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
