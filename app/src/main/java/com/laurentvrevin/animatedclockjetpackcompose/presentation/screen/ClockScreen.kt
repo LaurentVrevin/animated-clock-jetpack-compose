@@ -72,12 +72,12 @@ fun ClockScreen(modifier: Modifier = Modifier) {
                 fontWeight = FontWeight.Bold,
                 fontSize = 64.sp
             )
-
+            Spacer(modifier = Modifier.padding(36.dp))
 
             // Clock
             Box(
                 modifier = Modifier
-                    .fillMaxSize(),
+                    .wrapContentHeight(),
                 contentAlignment = Alignment.Center
             ) {
                 Canvas(
